@@ -1,0 +1,26 @@
+form{
+    width: 40%;
+    border: solid 2px;
+    padding: 10px;
+    margin-left: 28%;
+}
+input{
+    padding: 12px 5px;
+    width: 95%;
+    border: solid 1px green;
+    border-radius: 5px;
+    margin:2% 0;
+}
+button{
+    border:none;
+    border-radius: 5px;
+    padding: 12px 5px;
+    background-color: rgb(71, 132, 211);
+    color: white;
+    cursor: pointer;
+    width: 30%;
+    margin-left: 30%;
+}
+h2{
+    text-align: center;
+}
